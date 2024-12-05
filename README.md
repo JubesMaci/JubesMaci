@@ -1,1 +1,1 @@
-![gato](cat.jpeg)
+<img src="cat.gif">
