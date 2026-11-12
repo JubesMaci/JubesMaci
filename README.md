@@ -21,7 +21,6 @@ Aprender a construir aplicações completas, do back ao front, com código limpo
 
 ### 🌐 Onde me encontrar
 
-📁 **Portfólio:** [https://jubes.dev/](https://jubes.dev/)  
 🔗 [LinkedIn](https://www.linkedin.com/in/julia-karine-maciel/) • 🎨 [Behance](https://www.behance.net/Jkarine)
 
 ### ☕ Fato curioso
